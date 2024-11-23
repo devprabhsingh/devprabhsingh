@@ -2,8 +2,9 @@
 
 # <div align="center">Hi there👋 I am Prabhjot Singh</div>
 
-- 🔭 I’m interested in Web Development and UI/UX design.
-- 🌱 I’m currently learning more and more about MERN stack.
+- 🔭 I'm interested in IT and Networking stuff.
+- 🔭 I also like to dive in Web Development and UI/UX design.
+- 🌱 I never stop learning about IT and web development.
 
 ## <div align="center">📫 How to reach me</div>
  <p align="center">
